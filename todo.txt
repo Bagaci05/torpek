@@ -1,0 +1,26 @@
+1. Vegye fel a hét törpe neveit sorban egy listába (torpek), majd mindegyikük magasságát egy másik listába (magassag).
+
+A program ezután az alábbi menüpontokat jelenítse meg:
+
+1. Törpék listázása
+2. Legalacsonyabb törpe
+3. Legmagasabb törpe
+4. Törpe hozzáadása
+5. Kilépés
+
+A felhasználó választása függvényében hajtsa végre a megfelelő funkciót. (Az első esetben listázza ki a törpéket testmagasságukkal együtt, a második esetben írja ki a legalacsonyabb, a harmadikban a legmagasabb törpe nevét, a nyegedikben kérje be egy új törpe nevét és magasságát a felhasználótól, majd adja hozzá a listákhoz az adatokat, végül az utolsóban lépjen ki a programból.)
+
+2. Kérjen be a felhasználótól négy futballcsapat nevét, és helyezze el ezeket egy listában! Ezek után írja ki az összes lehetőséget, ahogyan párosítani lehet ezeket: 1.-2., 1-3., 1.-4., 2.-1, 2.-3 stb.
+A programnak összesen 12 párosítást kell megjelenítenie!
+
+3. Folytassa a szóki8kérdező programot, egészítse ki új funkciókkal!
+
+A program kerete legyen az alábbi menü:
+
+1. Szókikérdezés
+2. Új szó felvitele
+3. Kilépés
+
+Az 1. pontban kérdezzen rá 5 szó angol megfelelőjére, majd írja ki az elért eredményt százalékosan. A 2. pontban bővítse a szótárt a felhasználó által bevítt új kifejezéssel.
+
+A megvalósításhoz használjon két lista típusú változót (angol, magyar)
